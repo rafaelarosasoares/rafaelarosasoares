@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafaelarosasoares
-- 👀 I’m interested in JS, HTML, CSS and UX Design!
+- 👀 I’m interested in JS, HTML and CSS.
 - 🌱 I’m currently learning <strong>JS, React Native and Phyton</strong>!
 - ✍🏻 I speak Portuguese, English and Spanish. 
 
