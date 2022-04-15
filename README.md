@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @rafaelarosasoares
-- 👀 I’m interested in JS, HTML and CSS.
-- 🌱 I’m currently learning <strong>JS, React Native and Phyton</strong>!
-- ✍🏻 I speak Portuguese, English and Spanish. 
+- 👀 FullStack Dev.
+- 🌱 I’m currently learning <strong>JS, C and Phyton</strong>!
+- ✍🏻 I speak Portuguese, English and Spanish (a little bit). 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y65YD2S)
 
 <!---
 rafaelarosasoares/rafaelarosasoares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
