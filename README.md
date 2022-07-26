@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rafaelarosasoares
-- 👀 FullStack Dev.
-- 🌱 I’m currently learning <strong>JS, C and Phyton</strong>!
-- ✍🏻 I speak Portuguese, English and Spanish (a little bit). 
+- 👀 Web Developer & Computer Science Student.
 
 
 <!---
