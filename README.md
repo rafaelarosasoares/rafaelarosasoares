@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rafaelarosasoares
 - 👀 Web Developer & Computer Science Student.
+- Currently learning Java, SQL & C.
 
 
 <!---
